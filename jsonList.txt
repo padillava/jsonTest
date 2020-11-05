@@ -1,0 +1,6 @@
+{
+	"Name": "Jose Manuel",
+	"School": "ESAT",
+	"Lesson": "Mobile programming",
+	"Test": "Json test"
+}
