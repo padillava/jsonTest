@@ -1,1 +1,25 @@
+{
+	"Users": [{
+			"Email": "admin@prueba.com",
+			"Name": "Best Admin",
+			"Kills": "37",
+			"Assists": "5",
+			"Goals": "9"
+		},
+		{
+			"Email": "lofoxi7766@xhypm.com",
+			"Name": "Just a guy",
+			"Kills": "12",
+			"Assists": "25",
+			"Goals": "6"
+		},
+		{
+			"Email": "test@test.com",
+			"Name": "Just testing",
+			"Kills": "56",
+			"Assists": "12",
+			"Goals": "3"
+		}
+	]
 
+}
