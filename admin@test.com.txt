@@ -1,5 +1,5 @@
 {
-  "Picture": "1"
+  "Picture": "1",
 	"Matches": [{
 			"Date": "01/11",
 			"Kills": "2",
@@ -21,7 +21,7 @@
 			"Assists": "1",
 			"Goals": "6"
 		}
-	]
+	],
   
   "Inventory": [{
 			"Name": "Big sword",
