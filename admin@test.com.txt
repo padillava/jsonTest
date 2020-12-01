@@ -1,1 +1,46 @@
+{
+  "Picture": "1"
+	"Matches": [{
+			"Date": "01/11",
+			"Kills": "2",
+			"Deaths": "4",
+			"Assists": "5",
+			"Goals": "3"
+		},
+		{
+			"Date": "02/11",
+			"Kills": "1",
+			"Deaths": "2",
+			"Assists": "4",
+			"Goals": "4"
+		},
+		{
+			"Date": "03/11",
+			"Kills": "11",
+			"Deaths": "2",
+			"Assists": "1",
+			"Goals": "6"
+		}
+	]
+  
+  "Inventory": [{
+			"Name": "Big sword",
+			"Effects": "Strength +4",
+			"Quantity": "1",
+			"Weight": "5.5"
+		},
+		{
+			"Name": "Mighty helmet",
+			"Effects": "Defense +5",
+			"Quantity": "1",
+			"Weight": "3"
+		},
+		{
+			"Name": "Useless gauntlet",
+			"Effects": "Speed -2",
+			"Quantity": "2",
+			"Weight": "1"
+		}
+	]
 
+}
