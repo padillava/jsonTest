@@ -1,0 +1,33 @@
+{
+  "Picture": "2",
+	"Matches": [{
+			"Date": "11/09",
+			"Kills": "0",
+			"Deaths": "2",
+			"Assists": "4",
+			"Goals": "2"
+		},
+		{
+			"Date": "10/25",
+			"Kills": "10",
+			"Deaths": "9",
+			"Assists": "5",
+			"Goals": "10"
+		}
+	],
+  
+  "Inventory": [{
+			"Name": "Staff",
+			"Effects": "Power +1",
+			"Quantity": "1",
+			"Weight": "0.5"
+		},
+		{
+			"Name": "Wizard clothes",
+			"Effects": "Defense +2",
+			"Quantity": "1",
+			"Weight": "1"
+		}
+	]
+
+}
